@@ -43,7 +43,7 @@
           "expected": null
         },
         {
-          "description": "invalid when 11 digits does not start with a 1",
+          "description": "invalid when 11 digits and does not start with a 1",
           "property": "clean",
           "input": {
             "phrase": "22234567890"
