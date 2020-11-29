@@ -84,6 +84,15 @@
             "phrase": "The Road _Not_ Taken"
           },
           "expected": "TRNT"
+        },
+        {
+          "uuid": "adcew3b-ec2d-414f-b08c-66a4fc06cdef",
+          "description": "underscore emphasis 2",
+          "property": "abbreviate",
+          "input": {
+            "phrase": "A _Street_ Was Taken"
+          },
+          "expected": "SWT"
         }
       ]
     }
